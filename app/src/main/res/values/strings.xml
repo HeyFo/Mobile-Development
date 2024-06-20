@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">HeyFo</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="searchbar_recipe">Search Recipe</string>
+    <string name="search_hint">Mau makan apa hari ini?</string>
+    <string name="recipe_title">Judul Resep</string>
+    <string name="title_article">Judul Artikel</string>
+    <string name="desc_article">Deskripsi</string>
+    <string name="author">Penulis</string>
+    <string name="get_start">Mulai!</string>
+    <string name="selamat_datang">Selamat Datang!</string>
+    <string name="desc_selamat">Temukan inspirasi resep makanan sehat. Untuk gaya hidup yang lebih menyenangkan</string>
+    <string name="artikel">Artikel</string>
+    <string name="kategori">Kategori</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="unggah">Unggah</string>
+    <string name="recipe_main">Resep</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="full_list">Selengkapnya</string>
+    <string name="empty_image_warning">Gambar tidak ditemukan. Silakan pilih gambar terlebih dahulu.</string>
+    <string name="temukan_resep">Temukan Resep</string>
+    <string name="galeri">Galeri</string>
+    <string name="kamera">Kamera</string>
+    <string name="nama_item_predict">Nama Item</string>
+    <string name="nama_resep">Nama Resep</string>
+    <string name="tab_layout_detail">Bagian bahan dan langkah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="matched_ingredients">Matched Ingredients</string>
+    <string name="unmatched_ingredients">Unmatched Ingredients</string>
+    <string name="by_author">Oleh</string>
+    <string name="cth_article">Mengenal Pedoman Gizi Seimbang dan Manfaat untuk Kesehatan</string>
+    <string name="cth_author">Halodoc</string>
+    <string name="welcome_text">Temukan Resep Andalan Anda dengan HeyFo, dari bahan yang Anda punya</string>
+    <string name="this_is_the_description_of_the_article">This is the description of the article.</string>
+</resources>
